@@ -1,0 +1,3 @@
+NumPy Library FFT runtime: 0.002906 sec
+My Low level FFT runtime: 3.083811 sec
+My Low level FFT runtime / NumPy Library FFT runtime : 1061.114479
